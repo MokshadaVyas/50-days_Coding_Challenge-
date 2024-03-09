@@ -52,7 +52,7 @@ void display(struct sparse s)
 int main()
 {
     struct sparse s;
-    create(&s);
-    display(s);
+    create(&s);   /*Create fuction
+    display(s);    display fuction*/
     return 0;
 }
