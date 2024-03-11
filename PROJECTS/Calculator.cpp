@@ -60,7 +60,7 @@ int main()
     cout<<"5.Square Root"<<endl;
 
     cin>>choice;
-    cout<<"You've choosed "<<choice<<" operation"<<endl;
+    cout<<"You've selected "<<choice<<" operation"<<endl;
 
     switch(choice)
     {
