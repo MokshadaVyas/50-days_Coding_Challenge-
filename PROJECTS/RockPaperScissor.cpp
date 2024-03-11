@@ -7,12 +7,12 @@ int main()
     cout<<"--PLAYER 1--"<<endl;
     cout<<"Please choose your option:"<<endl;
     cout<<"1.rock,2.paper,3.scissor"<<endl;
-    cin>>firstplayer;
+    cin>>firstplayer;                        /*data of the first player*/
 
     cout<<"--PLAYER 2--"<<endl;
     cout<<"Please choose your option:"<<endl;
     cout<<"1.rock,2.paper,3.scissor"<<endl;
-    cin>>secondplayer;
+    cin>>secondplayer;                        /*data of the second player*/
 
     if(firstplayer==secondplayer)
     {
